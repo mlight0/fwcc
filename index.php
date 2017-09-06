@@ -13,7 +13,7 @@
         .jumbotron {background-color: #467b99; color: #ffffff;}
         .spacer {font-size: 5px;}
         .terms {font-size: 12px;}
-        .terms a {color: #bee7fe;}
+        .terms a {color: #bee7fe; }
         
 	</style>
 </head>
