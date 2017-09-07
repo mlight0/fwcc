@@ -8,13 +8,14 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<style type="text/css">
     
-		body {font-family: arial; font-size: 10px; margin: 20px;}
+		body {font-family: Helvetica, arial; font-size: 10px; margin: 20px;}
         .homepagebackground { background: #0b3857 url("images/screen-background.jpg") no-repeat top; background-size: 100%;}
         .jumbotron {background-color: #467b99; color: #ffffff;}
+        .jumbotron h1 {font-size: 50px;}
         .spacer {font-size: 5px;}
         .terms {font-size: 12px;}
-        .terms a {color: #bee7fe; }
-        
+        .terms a {color: #bee7fe;}
+        .text-left p {font-size: 14px;}
 	</style>
 </head>
 <body class="homepagebackground">
@@ -27,7 +28,7 @@
 
 <div class="jumbotron text-center">
   <img src="images/fwcc-logo.png"  class="img-responsive" />
-  <h1>Free Wifi</h1>
+  <h1>Free Wi-fi</h1>
   <br/>
   <div class="text-left">
     <p>
