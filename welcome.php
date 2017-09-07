@@ -53,7 +53,7 @@
     <div class="col-sm-4">
     <span class="glyphicon glyphicon-map-marker"></span>
       <h4>MAP</h4>
-      <p>Find your way around.</p>
+      <p>Find your way around the church.</p>
     </div>
     <div class="col-sm-4">
       <span class="glyphicon glyphicon-user"></span>
