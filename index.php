@@ -41,7 +41,7 @@
     </p>
   </div>
   <div class="spacer">&nbsp;</div>
-  <form class="form-group">
+  <form class="form-group" action="welcome.php">
     <div>
         <input type="email" class="form-control" placeholder="Email Address" required>
     </div>
