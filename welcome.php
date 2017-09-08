@@ -8,7 +8,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 	<style type="text/css">
     
-		body {font-family: Helvetica, arial; font-size: 14px; color: #ffffff; margin: 20px; padding: 0px;}
+		body {font-family: Helvetica, arial; font-size: 14px; color: #ffffff; margin: 0px; padding: 0px;}
         .homepagebackground { background: #0b3857 url("images/screen-background.jpg") no-repeat top; background-size: 100%;}
         .jumbotron {background-color: #467b99; color: #ffffff; font-size: 12px;}
         .jumbotron h1 {font-size: 50px;}
