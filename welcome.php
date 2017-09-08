@@ -29,7 +29,7 @@
 
 <div class="row">
   <div class="col-sm-4">
-      <a href="#"><img src="images/fwcc-logo.png" class="img-responsive" /></a>
+      <a href="http://www.familyworshipcenterchurch.com"><img src="images/fwcc-logo.png" class="img-responsive" /></a>
  </div>
   <div class="col-sm-4">
   </div>
