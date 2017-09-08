@@ -40,9 +40,9 @@
         below and click "Accept and Connect".
     </p>
   </div>
-  <form class="form-group" action="welcome.php">
+  <form class="form-group" action="authenticate.php" method="post">
     <div>
-        <input type="email" class="form-control" placeholder="Email Address" required>
+        <input type="email" id="email" name="email" class="form-control" placeholder="Email Address" required>
     </div>
     <div class="spacer">&nbsp;</div>
     <div>
