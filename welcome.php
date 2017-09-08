@@ -12,8 +12,9 @@
         .homepagebackground { background: #0b3857 url("images/screen-background.jpg") no-repeat top; background-size: 100%;}
         .jumbotron {background-color: #467b99; color: #ffffff; font-size: 12px;}
         .jumbotron h1 {font-size: 50px;}
+        .jumbotron h4  {color: #ffffff;}
         .jumbotron p {font-size: 14px; color:#bde1f2;}
- .jumbotron a {color: #bee7fe;}
+        .jumbotron a {color: #bde1f2; text-decoration: none;}
         .spacer {font-size: 5px;}
 
         .text-left p {font-size: 14px;}
@@ -44,39 +45,49 @@
   <br/><br/>
   <div class="row">
     <div class="col-sm-4">
-      <span class="glyphicon glyphicon-info-sign"></span>
+    <a href="http://www.familyworshipcenterchurch.com/new">
+      <span class="glyphicon glyphicon-map-marker"></span>
       <h4>I'M NEW HERE</h4>
-      <p>Welcome! To learn more about our church <a href="#">click here</a>.</p>
-      
-      
+      <p>We are a church filled with love and can't wait to meet you!</p>
+      </a>
     </div>
     <div class="col-sm-4">
-    <span class="glyphicon glyphicon-map-marker"></span>
-      <h4>MAP</h4>
-      <p>Find your way around the church.</p>
+    <a href="http://www.familyworshipcenterchurch.com/children/">
+    <span class="glyphicon glyphicon-send"></span>
+      <h4>CHILDREN'S CHURCH</h4>
+      <p>From nursery to elementary school age, our FAITHKids program has you covered.</p>
+      </a>
     </div>
     <div class="col-sm-4">
+    <a href="http://www.familyworshipcenterchurch.com/a-note-from-the-pastor/">
       <span class="glyphicon glyphicon-user"></span>
       <h4>MEET PASTOR</h4>
-      <p>To learn more about our pastor <a href="#">click here</a>.</p>
+      <p>A seasoned pastor who loves the Word, loves people and teaches the powerful message of faith. Find out more!</p>
+      </a>
     </div>
     </div>
     <br><br>
   <div class="row">
     <div class="col-sm-4">
+      <a href="https://onrealm.org/FWCC/Give/YZBJDMWFPL">
       <span class="glyphicon glyphicon-heart"></span>
       <h4>ON-LINE GIVING</h4>
-      <p>To learn about how to give on-line <a href="#">click here</a>.</p>
+      <p>Find out how more about giving on-line here.</p>
+      </a>
     </div>
     <div class="col-sm-4">
+      <a href="http://www.familyworshipcenterchurch.com/giving/">
       <span class="glyphicon glyphicon-phone"></span>
       <h4>TEXT TO GIVE</h4>
-      <p>To learn about how to text to give <a href="#">click here</a>.</p>
+      <p>Find out how more about Text-To-Give here.</p>
+      </a>
     </div>
     <div class="col-sm-4">
+      <a href="http://www.familyworshipcenterchurch.com/identityyouth"/>
       <span class="glyphicon glyphicon-share"></span>
       <h4>IDENTITY YOUTH</h4>
-      <p>Get connected with iY our Youth and Young adult ministry <a href="#">click here</a>.</p>
+      <p>Get connected with Identify Youth (iY) our Youth and Young adult ministry here.</p>
+      </a>
     </div>
   </div>
 </div>
